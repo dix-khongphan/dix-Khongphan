@@ -6,7 +6,7 @@
 - 🎓 Computer Science Student at University of phayao **<span type="placeholder" placeholder-type="place"></span>**
 - 💡 Interested in  Data Analytics, Robotics
 - 🎯 Current Goal: SQL , Data 
-- 💬 Ask me about **JavaScript, Python, and Web Frameworks**
+
 
 ---
 
