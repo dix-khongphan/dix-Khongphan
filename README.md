@@ -13,11 +13,10 @@
 ### 🛠️ Tech Stack & Tools
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 
 
@@ -31,8 +30,14 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dix-Khongphan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+ 
+<img src="https://github-readme-stats-fast.vercel.app/api?username=dix-khongphan&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dix-khongphan&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+ 
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dix-khongphan&theme=react-dark&hide_border=true" width="100%" />
+ 
 </div>
 
 ---
